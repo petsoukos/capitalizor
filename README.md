@@ -1,9 +1,13 @@
 # Capitalizor
 
-## Make first letter of each word of a string uppercase
+## The script "Camel Cases" an input string.
+## Make the first letter of each word of a string uppercase.
 
-### example:
+When the first letter of each word is an uppercase character, then we say that the string is Camel Cased.
+
+### examples:
 "upper case" -> "Upper Case"
+"camel case" -> "Camel Case"
 
 ```
 function capitalizor(words) {
